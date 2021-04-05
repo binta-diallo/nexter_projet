@@ -1,0 +1,100 @@
+svg {
+  color: white;
+  height: 50px;
+}
+
+#nav {
+  background-color: #f39267;
+}
+
+#profil {
+  background-color: #021529;
+  height: 500px;
+}
+
+h4, p {
+  color: #f39267;
+}
+
+h4 {
+  margin-bottom: 30px;
+}
+
+h5 {
+  color: white;
+  font-weight: bold;
+}
+
+.pic1 {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+}
+
+.realtors {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.realtor1 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.realtor2 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.realtor3 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.etiq {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+#profil3 {
+  margin-left: 25px;
+}
+
+.titre3 {
+  color: #f39267;
+}
+
+.titre4 {
+  color: gray;
+}
+
+.para5 {
+  color: gray;
+  font-size: 0.9rem;
+}
+
+#fluid, #fluid1, #fluid2, #fluid3, #fluid4, #fluid5 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.story {
+  position: absolute;
+  z-index: 1;
+}
+
+#back {
+  position: relative;
+  margin-top: 15px;
+  z-index: 9;
+}
